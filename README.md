@@ -4,7 +4,7 @@ FLO RFM PREDICTION
 <img width="208" alt="image" src="https://user-images.githubusercontent.com/101832704/175509221-9dd1493f-4b77-4f87-ba9c-7493498be41b.png">
 
 
-## İŞ PROBLEMİ (Business Problem)
+## İŞ PROBLEMİ (BUSINESS PROBLEM)
 
 Online ayakkabı mağazası olan FLO müşterilerini
 segmentlere ayırıp bu segmentlere göre pazarlama
@@ -12,12 +12,12 @@ stratejileri belirlemek istiyor. Buna yönelik olarak
 müşterilerin davranışları tanımlanacak ve bu
 davranışlardaki öbeklenmelere göre gruplar oluşturulacak
 
-# VERİ SETİ HİKAYESİ
+# VERİ SETİ HİKAYESİ (DATA SET STORY)
 
 Veri seti Flo’dan son alışverişlerini 2020 - 2021 yıllarında OmniChannel (hem online hem offline alışveriş yapan) 
 olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır.
 
-# DEĞİŞKENLER
+# DEĞİŞKENLER (VARIABLES)
 
  master_id: Eşsiz müşteri numarası
  

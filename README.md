@@ -1,5 +1,5 @@
 # FLO RFM PREDICTION
-FLO RFM PREDICTION
+
 # RFM ile Müşteri Segmentasyonu (Customer Segmentation with RFM)
 <img width="208" alt="image" src="https://user-images.githubusercontent.com/101832704/175509221-9dd1493f-4b77-4f87-ba9c-7493498be41b.png">
 
